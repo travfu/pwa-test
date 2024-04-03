@@ -1,7 +1,8 @@
 {
   "name": "PWA Test",
   "short_name": "PWA Test",
-  "start_url": ".",
+  "scope": "/pwa-test/",
+  "start_url": "/pwa-test/",
   "display": "standalone",
   "background_color": "#fff",
   "description": "A test pwa.",
